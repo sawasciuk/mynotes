@@ -1,7 +1,7 @@
 ﻿
 namespace mynotes.Utils
 {
-    class Calc
+    public class Calc
     {
         public Calc()
         {
