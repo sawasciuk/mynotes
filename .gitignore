@@ -1,0 +1,18 @@
+# Build Folders
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# NuGet Packages Directory and packages built
+packages/
+*.nupkg
+
+# Node folders
+**/node_modules
+**/.tmp/
+**/.idea/*
